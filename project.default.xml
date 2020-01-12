@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
