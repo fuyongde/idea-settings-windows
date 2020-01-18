@@ -1,5 +1,0 @@
-<keymap version="1" name="Fuyd-Mac" parent="Mac OS X 10.5+">
-  <action id="FixDocComment">
-    <keyboard-shortcut first-keystroke="shift alt j" />
-  </action>
-</keymap>
