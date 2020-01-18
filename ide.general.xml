@@ -1,5 +1,8 @@
 <application>
-  <component name="Registry">
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+  <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
+    <option name="reopenLastProject" value="false" />
+    <option name="autoSaveFiles" value="false" />
+    <option name="autoSyncFiles" value="false" />
   </component>
 </application>
