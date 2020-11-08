@@ -3,5 +3,6 @@
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/hello-gradle" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/hello-maven" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/github/java-design-patterns" startUpFlag="FIRST" />
   </component>
 </application>
