@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="HelloWorldPlugin" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
