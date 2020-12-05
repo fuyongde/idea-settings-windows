@@ -1317,6 +1317,11 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
+                  <entry key="BatchConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
+                    </value>
+                  </entry>
                   <entry key="Cloud Toolkit Multirun">
                     <value>
                       <FeaturePluginData displayName="Cloud Toolkit Multirun" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
