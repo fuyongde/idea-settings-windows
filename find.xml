@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\jarvis-mybatis-generator\src\main\java\org\stark\jarvis\mybatis\generator\JarvisCommentGenerator.java [jarvis.jarvis-mybatis-generator.main]'" />
+    <option name="defaultScopeName" value="File '...\jarvis-mybatis-generator\src\main\java\org\stark\jarvis\mybatis\generator\JarvisCommentGenerator.java [jarvis.jarvis-mybatis-generator.main]'" />
+    <option name="SEARCH_SCOPE" value="File '...\jarvis-mybatis-generator\src\main\java\org\stark\jarvis\mybatis\generator\JarvisCommentGenerator.java [jarvis.jarvis-mybatis-generator.main]'" />
   </component>
 </application>
