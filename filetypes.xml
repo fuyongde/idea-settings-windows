@@ -6,7 +6,9 @@
       <mapping pattern="HelloWorldPlugin" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
