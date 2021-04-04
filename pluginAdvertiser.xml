@@ -517,8 +517,9 @@
         <entry key="*.json">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.alibabacloud.intellij.toolkit-intellij" />
-              <option name="myPluginName" value="Alibaba Cloud Toolkit" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1130,8 +1131,9 @@
         <entry key="*.yaml">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.alibabacloud.intellij.toolkit-intellij" />
-              <option name="myPluginName" value="Alibaba Cloud Toolkit" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1316,44 +1318,9 @@
                       <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
                     </value>
                   </entry>
-                  <entry key="Cloud Toolkit Multirun">
-                    <value>
-                      <FeaturePluginData displayName="Cloud Toolkit Multirun" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
-                    </value>
-                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
-                    </value>
-                  </entry>
-                  <entry key="DEPLOY_ACS_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Deploy to Registry / Kubernetes" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
-                    </value>
-                  </entry>
-                  <entry key="DEPLOY_CLOUD_APP_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Deploy to Mini Program" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
-                    </value>
-                  </entry>
-                  <entry key="DEPLOY_HOST_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Deploy to Host" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
-                    </value>
-                  </entry>
-                  <entry key="ECS_RUN_CONFIGRATION">
-                    <value>
-                      <FeaturePluginData displayName="ECS on Alibaba Cloud" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
-                    </value>
-                  </entry>
-                  <entry key="EDAS_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="EDAS on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
-                    </value>
-                  </entry>
-                  <entry key="EDAS_SERVERLESS_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="SAE on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
                   <entry key="GradleRunConfiguration">
