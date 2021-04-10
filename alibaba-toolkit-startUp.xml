@@ -10,6 +10,7 @@
     <entry projectPath="$USER_HOME$/Documents/repo/demo/jarvis-boot" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/jarvis-glugins" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/nacos-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/nacos-spring-cloud-demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/simple-java" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/spring-boot-2.4.0" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/webflux-demo" startUpFlag="FIRST" />
