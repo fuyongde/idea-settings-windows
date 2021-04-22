@@ -17,6 +17,11 @@
                       <FeaturePluginData displayName="Alibaba Cloud Remote Debug" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
+                  <entry key="ALIBABA_MICROSERVICE_CONTAINER_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Alibaba Microservice Container" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
                   <entry key="AndroidJUnit">
                     <value>
                       <FeaturePluginData displayName="Android JUnit" pluginName="Android" pluginId="org.jetbrains.android" bundled="true" />
