@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Desktop/demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/amber" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/hello-gradle" startUpFlag="FIRST" />
