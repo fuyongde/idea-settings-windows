@@ -2,14 +2,27 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/amber" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/hello-gradle" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/hello-maven" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/hello-world" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/https-demo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/jarvis-boot" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/demo/jarvis-glugins" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/nacos-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/nacos-spring-cloud-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/simple-java" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/spring-boot-2.4.0" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/spring-cloud-alibaba-2.2.5.RELEASE" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/demo/webflux-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/gitee/Back.InsuranceServer" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/gitee/https-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/github/aliyun-spring-boot" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/github/bulma" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/github/cademo/cademo" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/github/goku" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/github/jarvis" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/Documents/repo/github/java-design-patterns" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Documents/repo/github/xxl-job-2.3.0" startUpFlag="FIRST" />
   </component>
 </application>
