@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="cmd" type="Batch" />
-      <removed_mapping ext="cmd" type="Cmd" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="HelloWorldPlugin" type="PLAIN_TEXT" />
       <mapping ext="http" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="json" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
