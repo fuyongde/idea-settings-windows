@@ -4,4 +4,12 @@
     <option name="inactiveTimeout" value="120" />
     <option name="reopenLastProject" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+        <entry key="PowerSaveMode" value="true" />
+      </map>
+    </option>
+  </component>
 </application>

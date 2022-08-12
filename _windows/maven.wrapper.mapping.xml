@@ -2,6 +2,7 @@
   <component name="MavenWrapperMapping">
     <option name="mapping">
       <map>
+        <entry key="https://downloads.apache.org/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip" value="C:\Users\fuyon\.m2\wrapper\dists\apache-maven-3.3.9-bin\4td7ufmjq6cada6sprl8ces868\apache-maven-3.3.9" />
         <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.8.1/apache-maven-3.8.1-bin.zip" value="C:\Users\fuyon\.m2\wrapper\dists\apache-maven-3.8.1-bin\2l5mhf2pq2clrde7f7qp1rdt5m\apache-maven-3.8.1" />
       </map>
     </option>
